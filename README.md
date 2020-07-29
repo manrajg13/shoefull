@@ -11,6 +11,8 @@ Shoefull is displayed using the Rust canvas and only uses keyboard inputs to all
 
 Install the Rust compiler toolchain via ![```rustup```](https://rustup.rs/) and then cd to the folder of this repo and run ```cargo run --release```.
 
+It is essential that Shoefull is compiled with ```--release``` due to the undesirable results debug mode delivers, mainly being the slow animation of spritebatches in the ggez library.
+
 # Screenshots
 ![alt text](https://i.imgur.com/fRplxM3.png)
 
