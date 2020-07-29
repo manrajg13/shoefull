@@ -8,10 +8,10 @@ Shoefull is a test project using a Rust library called ggez to "create a Good Ga
 Shoefull is displayed using the Rust canvas and only uses keyboard inputs to allow the user to navigate through the menu/play the game. The latest release only consists of a simple target practice mode where the player must collide with randomly generated targets while dashing in the fastest time possible to reach a score of 10.
 
 # Screenshots
-![alt text] https://i.imgur.com/fRplxM3.png
+![alt text] (https://i.imgur.com/fRplxM3.png)
 
-![alt text] https://imgur.com/a/zZ9mzKZ
+![alt text] (https://imgur.com/a/zZ9mzKZ)
 
-![alt test] https://i.imgur.com/xBav025.png
+![alt test] (https://i.imgur.com/xBav025.png)
 
 Credit to https://github.com/Simratt for game concept.
