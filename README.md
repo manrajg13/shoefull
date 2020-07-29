@@ -16,11 +16,17 @@ It is essential that Shoefull is compiled with ```--release``` due to the undesi
 # Controls
 
 ```W``` JUMP
+
 ```S``` CROUCH
+
 ```A``` LEFT
+
 ```D``` RIGHT
 
+
+
 ```J``` DASH
+
 ```P``` PAUSE
 
 # Screenshots
