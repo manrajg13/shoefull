@@ -46,3 +46,4 @@ Game design is a field I am a complete stranger to and because I decided to pick
 
 <br/>
 Thanks to [```Simrat Bains```](https://github.com/Simratt) for the game concept.
+<br>
