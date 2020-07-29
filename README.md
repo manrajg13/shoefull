@@ -10,7 +10,7 @@ Shoefull is displayed using the Rust canvas and only uses keyboard inputs to all
 # Screenshots
 ![alt text](https://i.imgur.com/fRplxM3.png)
 
-![alt text](https://imgur.com/a/zZ9mzKZ)
+![alt text](https://i.imgur.com/dO0d1GU.png)
 
 ![alt test](https://i.imgur.com/xBav025.png)
 
