@@ -14,6 +14,6 @@ Shoefull is displayed using the Rust canvas and only uses keyboard inputs to all
 
 ![alt test](https://i.imgur.com/xBav025.png)
 
-'''[Click here for Game animations](https://www.piskelapp.com/user/5510105074761728/public)'''
+[```Click here for Game animations```](https://www.piskelapp.com/user/5510105074761728/public)
 
-Credit to [Simrat Bains](https://github.com/Simratt) for game concept.
+Credit to [```Simrat Bains```](https://github.com/Simratt) for game concept.
