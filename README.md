@@ -44,6 +44,5 @@ Game design is a field I am a complete stranger to and because I decided to pick
 
 * Create a story mode
 
-
-
-Credit to [```Simrat Bains```](https://github.com/Simratt) for game concept.
+<br/>
+Thanks to [```Simrat Bains```](https://github.com/Simratt) for the game concept.
