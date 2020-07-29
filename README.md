@@ -47,4 +47,5 @@ Game design is a field I am a complete stranger to and because I decided to pick
 \
 \
 Thanks to [```Simrat Bains```](https://github.com/Simratt) for the game concept.
+If you have trouble installing the VS build tools follow [```this guide```](https://www.jaacostan.com/2019/12/rust-error-linker-linkexe-not-found.html)
 
