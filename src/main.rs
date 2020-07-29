@@ -3,6 +3,8 @@ use ggez::nalgebra::Point2;
 use ggez::graphics;
 use ggez::{Context, GameResult};
 use std::time::Instant;
+use std::path;
+use std::env;
 
 mod menu;
 mod pearl;
@@ -211,9 +213,17 @@ impl event::EventHandler for GameState {
 }
 
 fn main() -> GameResult {
-    let cb = ggez::ContextBuilder::new("shoemageddon", "Manraj Gill")
+    let mut cb = ggez::ContextBuilder::new("shoemageddon", "Manraj Gill")
         .window_setup(conf::WindowSetup::default().title("Shoemageddon"))
         .window_mode(conf::WindowMode::default().dimensions(640.0, 360.0));
+
+    if let Ok(manifest_dir) = env::var("CARGO_MANIFEST_DIR") {
+        let mut path = path::PathBuf::from(manifest_dir);
+        path.push("resources");
+        println!("Adding path {:?}", path);
+        cb = cb.add_resource_path(path);
+    }
+
     let (ctx, event_loop) = &mut cb.build()?;
     let state = &mut GameState::new(ctx)?;
     event::run(ctx, event_loop, state)
