@@ -15,12 +15,12 @@ It is essential that Shoefull is compiled with ```--release``` due to the undesi
 
 # Controls
 
-```WASD``` MOVE/JUMP
+```W A S D```  MOVE/JUMP
 
 
-```J``` DASH
+```J```  DASH
 
-```P``` PAUSE
+```P```  PAUSE
 
 # Screenshots
 ![alt text](https://i.imgur.com/fRplxM3.png)
