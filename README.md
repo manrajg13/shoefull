@@ -13,6 +13,16 @@ Install the Rust compiler toolchain via ![```rustup```](https://rustup.rs/) and 
 
 It is essential that Shoefull is compiled with ```--release``` due to the undesirable results debug mode delivers, mainly being the slow animation of spritebatches in the ggez library.
 
+# Controls
+
+```W``` JUMP
+```S``` CROUCH
+```A``` LEFT
+```D``` RIGHT
+
+```J``` DASH
+```P``` PAUSE
+
 # Screenshots
 ![alt text](https://i.imgur.com/fRplxM3.png)
 
