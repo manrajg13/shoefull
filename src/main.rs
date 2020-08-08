@@ -2,6 +2,7 @@ use ggez::*;
 use ggez::nalgebra::Point2;
 use ggez::graphics;
 use ggez::{Context, GameResult};
+use ggez::graphics::DrawParam;
 use std::time::Instant;
 use std::path;
 use std::env;
