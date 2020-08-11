@@ -221,8 +221,8 @@ impl event::EventHandler for GameState {
 }
 
 fn main() -> GameResult {
-    let mut cb = ggez::ContextBuilder::new("shoemageddon", "Manraj Gill")
-        .window_setup(conf::WindowSetup::default().title("Shoemageddon"))
+    let mut cb = ggez::ContextBuilder::new("shoefull", "Manraj Gill")
+        .window_setup(conf::WindowSetup::default().title("Shoefull"))
         .window_mode(conf::WindowMode::default().dimensions(640.0, 360.0));
 
     if let Ok(manifest_dir) = env::var("CARGO_MANIFEST_DIR") {
